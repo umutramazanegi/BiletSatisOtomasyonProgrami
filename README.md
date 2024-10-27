@@ -1,4 +1,4 @@
-## Sinema Keyfinizi Artıracak Bir Deneyim: Sinema Bilet Satış Otomasyon Programı 🎬
+## Sinema Bilet Satış Otomasyon Programı 🎬
 
 **Günümüzde sinema keyfi, hayatımızın vazgeçilmez bir parçası haline geldi. ❤️** Ancak, artan sinema salonu sayısı 🏢 ve yoğun ilgi 👥, bilet satış noktalarında karmaşaya 😵‍💫 ve zaman kaybına yol açabiliyor. ⏳ İşte tam da bu noktada, geliştirdiğim **Sinema Bilet Satış Otomasyon Programı** devreye giriyor! ✨
 
