@@ -1,0 +1,46 @@
+Uygulamayı Çalıştırma Adımları
+Bu uygulama lisanslı olup, veritabanı erişimi ücretli olarak sağlanmaktadır. Aşağıdaki adımları takip ederek uygulamayı çalıştırabilirsiniz:
+
+1. Lisans ve Veritabanı Satın Alma:
+
+Uygulamayı kullanabilmek için öncelikle gerekli lisansı ve veritabanını satın almanız gerekmektedir. Detaylı bilgi ve satın alma işlemleri için [iletişim bilgileri] adresinden bize ulaşabilirsiniz.
+
+2. Gerekli Programların Kurulumu:
+
+Lisans ve veritabanı satın alma işlemini tamamladıktan sonra, size iletilecek "Gerekli Programlar" klasöründe bulunan tüm programları bilgisayarınıza kurunuz. Bu programlar, uygulamanın doğru çalışabilmesi için gereklidir.
+
+3. Veritabanı Bağlantısını Yapılandırma:
+
+Size iletilecek olan veritabanı dosyasını bilgisayarınızda uygun bir konuma kaydedin.
+
+SQL Server Management Studio'yu açınız ve veritabanınızı eklemek istediğiniz sunucuya bağlanınız.
+
+Sunucu adına sağ tıklayıp "Veritabanlarını Yeniden Yükle" seçeneğine tıklayınız.
+
+Açılan pencerede "Kaynak" kısmından "Aygıt" seçeneğini seçip "..." butonuna tıklayınız.
+
+Karşınıza çıkan pencereden "Ekle" butonuna tıklayıp size iletilen veritabanı dosyasını seçin ve "Aç" butonuna tıklayınız.
+
+"Tamam" butonuna tıklayarak veritabanını içe aktarma işlemini tamamlayınız.
+
+4. Sunucu Adını Kopyalama ve Proje Ayarlarını Yapma:
+
+SQL Server Management Studio'da sunucu adınıza sağ tıklayınız.
+
+Açılan menüden "Özellikler" seçeneğine tıklayınız.
+
+"Genel" sekmesi altında bulunan "Sunucu adı" alanındaki tam adı kopyalayınız.
+
+"SinemaBileti" klasöründe bulunan projeyi açınız.
+
+Projedeki "SqlConnection" kısımlarını bulunuz. Bu kısımlar genellikle "app.config" veya "web.config" gibi dosyalarda bulunur.
+
+"SqlConnection" kısımlarındaki sunucu adını, 4. adımda kopyaladığınız sunucu adıyla değiştiriniz.
+
+5. Uygulamayı Çalıştırma:
+
+Projeyi derleyip çalıştırınız.
+
+Uygulamaya giriş yapmak için size verilecek olan kullanıcı adı ve şifreyi kullanabilirsiniz.
+
+Not: Film afişlerinin görüntülenebilmesi için, projedeki dosya yollarını kendi bilgisayarınızdaki dosya yollarıyla değiştirmeniz gerekmektedir. Film afişlerinin bulunduğu klasörü tespit edip, bu klasörün yolunu proje ayarlarında güncelleyiniz.
