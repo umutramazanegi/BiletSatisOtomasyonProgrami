@@ -14,6 +14,4 @@
 
 **Sinema Bilet Satış Otomasyon Programı** ile sinema salonunuzu geleceğe taşıyın ve müşterilerinize unutulmaz bir sinema deneyimi yaşatın! 🚀
 
-**Ticari Otomasyon Sistemi hakkında daha detaylı bilgi edinmek ve ekran görüntülerini incelemek için web sitemi ziyaret edebilirsiniz:** 
-
-**[Web sitenizin adresi]** 
+➡️ Bilet Satis Otomasyon Programi hakkında daha detaylı bilgi edinmek ve ekran görüntülerini incelemek için web sitemi ziyaret edebilirsiniz: https://lnkd.in/d28gCUFR
