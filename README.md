@@ -1,4 +1,4 @@
-## Sinema Bilet Satış Otomasyon Programınızı Tanıtın! 🎬
+## Sinema Keyfinizi Artıracak Bir Deneyim: Sinema Bilet Satış Otomasyon Programı 🎬
 
 **Günümüzde sinema keyfi, hayatımızın vazgeçilmez bir parçası haline geldi. ❤️** Ancak, artan sinema salonu sayısı 🏢 ve yoğun ilgi 👥, bilet satış noktalarında karmaşaya 😵‍💫 ve zaman kaybına yol açabiliyor. ⏳ İşte tam da bu noktada, geliştirdiğim **Sinema Bilet Satış Otomasyon Programı** devreye giriyor! ✨
 
@@ -12,4 +12,8 @@
 * **Gelişmiş Raporlama ve İstatistikler:**  Satış raporları 📊, seans doluluk oranları 📈, en çok tercih edilen filmler 🏆 gibi önemli verilere anında ulaşarak işletmenizin performansını takip edebilirsiniz. 
 * **Kullanıcı Dostu Arayüz:** Programım, sade ve kullanıcı dostu bir arayüze sahip olduğundan, teknik bilgi gerektirmeden kolayca kullanabilirsiniz.  😌
 
-**Sinema Bilet Satış Otomasyon Programı** ile sinema salonunuzu geleceğe taşıyın ve müşterilerinize unutulmaz bir sinema deneyimi yaşatın!  🚀
+**Sinema Bilet Satış Otomasyon Programı** ile sinema salonunuzu geleceğe taşıyın ve müşterilerinize unutulmaz bir sinema deneyimi yaşatın! 🚀
+
+**Ticari Otomasyon Sistemi hakkında daha detaylı bilgi edinmek ve ekran görüntülerini incelemek için web sitemi ziyaret edebilirsiniz:** 
+
+**[Web sitenizin adresi]** 
